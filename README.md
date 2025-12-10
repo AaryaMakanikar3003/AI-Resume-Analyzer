@@ -5,7 +5,7 @@ An AI-powered resume analyzer that extracts key information from uploaded resume
 
 <img width="1919" height="806" alt="Screenshot 2025-12-10 105123" src="https://github.com/user-attachments/assets/844d7348-135a-49e5-b78c-6ba562081d96" />
 
-<img width="1920" height="1080" alt="Screenshot (927)" src="https://github.com/user-attachments/assets/a33049ee-1751-4742-8f7e-0d676709d8f0" />
+<img width="1919" height="787" alt="Screenshot 2025-12-10 110102" src="https://github.com/user-attachments/assets/c0fabc37-5f58-4f1a-a778-119be528547f" />
 
 <img width="1919" height="818" alt="Screenshot 2025-12-10 105141" src="https://github.com/user-attachments/assets/8233ac34-5230-4761-9f15-daf9b2f24812" />
 
